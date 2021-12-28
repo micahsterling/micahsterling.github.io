@@ -2565,6 +2565,7 @@ dl dt {
 
 dl dd {
   margin-left: 2em;
+  color: white;
 }
 
 dl.alt dt {
