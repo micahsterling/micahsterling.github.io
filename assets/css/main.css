@@ -188,8 +188,8 @@ html {
 }
 
 body {
-  background-color: #845d93;
-  background-image: url("images/pexels-merlin-lightpainting-10096514.jpg");
+  background-color: #000000;
+  /* background-image: url("images/pexels-merlin-lightpainting-10096514.jpg"); */
   /* background-image: url("images/pexels-wendy-wei-1555900.jpg"); */
   /* background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
   /* background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
