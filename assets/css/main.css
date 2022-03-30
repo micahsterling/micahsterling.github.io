@@ -213,7 +213,7 @@ body.is-preload *:after {
 /* Type */
 
 body {
-  background-color: #000000;
+  background-color: #2a2c36;
   color: rgba(0, 0, 0, 0.65);
 }
 
@@ -3077,7 +3077,7 @@ table.alt tbody tr td {
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
-  align-items: center;
+  align-items: self-start;
   margin: 0 0 2em 0;
 }
 
@@ -3106,7 +3106,7 @@ table.alt tbody tr td {
 
 .spotlight .image img {
   display: block;
-  border-radius: 100%;
+  /* border-radius: 100%; */
   width: 16em;
 }
 
@@ -3225,7 +3225,7 @@ table.alt tbody tr td {
   }
 
   #header.alt {
-    padding: 6em 4em 3em 4em;
+    padding: 3em 4em 1em 4em;
   }
 }
 
@@ -3681,7 +3681,7 @@ body.is-preload #header.alt .logo {
 }
 
 #main .spotlight .image {
-  border-color: #dddddd;
+  /* border-color: #dddddd; */
 }
 
 #main > .main {
