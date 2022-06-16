@@ -3441,8 +3441,8 @@ body.is-preload #header.alt .logo {
   color: #636363;
 }
 
-#main a:hover {
-  color: #636363;
+#main .highlight:hover {
+  color: #8cc9f0;
 }
 
 #main strong,
